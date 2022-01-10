@@ -1,0 +1,3 @@
+O git hub é uma ótima ferramenta para quem está começando agora,
+muito intuitiva e expressa muito bem o que queremos mostrar!
+O link para dowload do git é https://git-scm.com/downloads
